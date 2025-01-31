@@ -1,0 +1,365 @@
+patient_age,main_complaint,contact_history,infection_source,other_source,trigger_factors,illness_duration,past_history,family_history,classname
+5 tahun,"Kontrol 1 bulan dengan keluhan bercak merah membaik. Kunjungan pertama kali saat rawat inap tgl 28/6/2022 dengan keluhan bercak merah diwajah dan seluruh tubuh sejak 2 bulan terakhir
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Peningkatan IgE serum, Awitan pada usia dini, Gatal bila berkeringat, Intoleransi makanan",Tidak ada,Tidak ada,,suhu,> 4 minggu,Alergi makanan,"Riwayat penyakit yang sama, Rinitis alergi, Asma bronkiale",dermatitis atopic
+23 tahun,"Kontrol 1 bulan. Kunjungan pertama tgl 7/7/2022 dengan keluhan bercak dan bintil kemerahan di wajah, lengan, paha, dan tungkai sejak 4 tahun terakhir. Hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Area gelap di infraorbita, Wajah pucat atau eritema, Gatal bila berkeringat",Tidak ada,Tidak ada,,"Suhu (panas), keringat",> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+23 tahun,"Kontrol 2 minggu keluhan bercak merah dan atal di punggung, lengan, pubis, dan tungkai bertambah sejak 2 minggu terakhir. Kunjungan pertama tgl 7/7/2022 dengan keluhan bercak dan bintil kemerahan di wajah, lengan, paha, dan tungkai sejak 4 tahun terakhir. Hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Area gelap di infraorbita, Wajah pucat atau eritema, Gatal bila berkeringat",Tidak ada,Tidak ada,,"Suhu (panas), keringat",> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+9 tahun,"Kontrol 3 bulan dengan keluhan bercak merah gatal baru di lengan kanan bawah. Kunjungan pertama tgl 09/11/2022 dengan keluhan gatal di seluruh tubuh serta kulit kering sejak 1,5 tahun lalu. Keluhan gatal hilang timbul.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis",Tidak ada,Tidak ada,,Tidak ada,> 4 minggu,Rinitis alergi,"Riwayat penyakit yang sama, Rinitis alergi",dermatitis atopic
+41 tahun,"Kontrol 3 bulan dengan keluhan muncul bercak kemerahan baru 2 bulan lalu di tungkai atas kanan. Kunjungan pertama tgl 05/10/2022 dengan keluhan  gatal di kedua lipat siku dan perut sejak 1 minggu.
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Iktiosis / hiperlinear palmar / keratosis pilaris, Area gelap di infraorbita, Gatal bila berkeringat",Tidak ada,Tidak ada,,"keringat, makanan (ikan tongkol basah)",> 4 minggu,Alergi makanan,Riwayat penyakit yang sama,dermatitis atopic
+28 tahun,"Kontrol 1 minggu. Kunjungan pertama tgl 6/10/2022 dengan keluhan  kulit terasa gatal pada area lengan, tungkai, dada, dan lipat payudara sejak 2 bulan terakhir, hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Peningkatan IgE serum, Dermatitis pada puting susu, Gatal bila berkeringat, White dermographism atau delayed blanch",Tidak ada,Lain - lain (sebutkan pada kolom pertanyaan berikutnya),Ektima,Keringat,> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+20,"Kontrol 1 bulan dengan keluhan bercak dan bintil merah baru timbul terutama pada dada sejak 1 minggu yang lalu. 
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Peningkatan IgE serum, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"keringat, suhu panas, gluten dan turunan produk berbasis gluten, kepiting, almond",> 4 minggu,Alergi makanan,Asma bronkiale,dermatitis atopic
+56 tahun,"Terdapat keluhan bercak merah pada kedua tangannya yang terasa gatal sejak 5 bulan yang lalu.
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Kecenderungan mengalami dermatitis non-spesifik pada tangan dan kaki, Gatal bila berkeringat",Tidak ada,Tidak ada,,"keringat, debu",> 4 minggu,Rinitis alergi,Tidak ada riwayat,dermatitis atopic
+1 tahun dan 11  bln,"Terdapat bercak kemerahan yang gatal di pipi, kedua lengan, dan tungkai sejak 3 bulan terakhir
+Pruritus, Dermatitis kronik / kronis berulang
+Xerosis, Iktiosis / hiperlinear palmar / keratosis pilaris, Lipat Dennie-Morgan pada daerah infraorbital",Ada,Tidak ada,,-,> 4 minggu,Alergi makanan,Asma bronkiale,dermatitis atopic
+2 tahun 7 bln,"Kontrol 2 minggu. Kunjungan pertama tgl 24/01/2022 dengan keluhan bercak di kedua pipi dan daerah lipat lengan, leher dan lipat kaki sejak Oktober 2021 
+Pruritus, ""Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)"", ""Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak""
+Xerosis, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,ISPA,,"suhu, makanan (coklat), sinar matahari",> 4 minggu,rinitis alergi,tidak ada riwayat,dermatitis atopic
+28 tahun,"Pasien datang dengan keluhan kulit terasa gatal pada area lengan, tungkai, dada, dan lipat payudara sejak 2 bulan terakhir, hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Dermatitis pada puting susu, Gatal bila berkeringat, White dermographism atau delayed blanch",Tidak ada,Lain - lain (sebutkan pada kolom pertanyaan berikutnya),ektima,keringat,> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+28 tahun,"Terdapat keluhan bercak kemerahan yang gatal hampir di seluruh tubuh sejak 1 minggu
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak
+Xerosis, Area gelap di infraorbita, Gatal bila berkeringat",Tidak ada,Lain - lain (sebutkan pada kolom pertanyaan berikutnya),Selulitis pedis,keringat,1 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+31 tahun,"Kontrol 2 minggu. Kunjungan pertama tanggal 14 May 2024 dgn keluhan utama bercak merah gatal 1 tahun terakhir di jari tangan kiri dan kaki kiri
+Pruritus, Dermatitis kronik / kronis berulang
+Xerosis, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita, Lipatan pada leher sisi anterior, Intoleransi makanan",Tidak ada,Tidak ada,,tidak ada,> 4 minggu,Asma bronkiale,Diabetes melitus,dermatitis atopic
+12 tahun,"Kontrol 1 minggu, tidak ada keluhan.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Iktiosis / hiperlinear palmar / keratosis pilaris, Kecenderungan mengalami dermatitis non-spesifik pada tangan dan kaki",Ada,Tidak ada,,Tidak ada,> 4 minggu,Riwayat penyakit yang sama,Tidak ada riwayat,dermatitis atopic
+36 tahun,"Kontrol 1 minggu. Kunjungan pertama tgl 04/07/2024 dengan keluhan bercak kemerahan dan terasa gatal kemudian menghitam sejak 3 bulan yang lalu.
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Peningkatan IgE serum, Kecenderungan infeksi kulit (khususnya S. aureus dan Herpes simplex), imunitas seluler yang terganggu, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita, Gatal bila berkeringat",Tidak ada,Tidak ada,,keringat,> 4 minggu,Asma bronkiale,Tidak ada riwayat,dermatitis atopic
+20 tahun,"Kontrol 1 bulan dengan keluhan bercak dan bintil merah baru timbul terutama pada dada sejak 1 minggu yang lalu. 
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Peningkatan IgE serum, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"keringat, suhu panas, gluten dan turunan produk berbasis gluten, kepiting, almond",> 4 minggu,Alergi makanan,Rinitis alergi,dermatitis atopic
+34 tahun,"Pasien datang dengan keluhan bercak merah di wajah, leher, belakang telinga, dada, dan punggung sejak 1 tahun terakhir hilang timbul dan memberat sejak 3 minggu
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Iktiosis / hiperlinear palmar / keratosis pilaris, Dermatitis pada puting susu, Area gelap di infraorbita, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Ada,Tidak ada,,Tidak ada,> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+38 tahun,"Kontrol 1 bulan. Kunjungan pertama tgl 25/10/2022 dgn keluhan utama bercak merah di wajah, leher, lipat siku yang memberat 2 bulan terakhir.
+Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Awitan pada usia dini, Kecenderungan mengalami dermatitis non-spesifik pada tangan dan kaki, Area gelap di infraorbita",Ada,Tidak ada,,"Keringat, komponen sabun cuci piring (pewangi, pengawet, dikromat, nikel)",> 4 minggu,Tidak ada riwayat,Asma bronkiale,dermatitis atopic
+28 tahun,"Pasien datang dengan keluhan kulit terasa gatal pada area lengan, tungkai, dada, dan lipat payudara sejak 2 bulan terakhir, hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Dermatitis pada puting susu, Gatal bila berkeringat, White dermographism atau delayed blanch",Tidak ada,Lain - lain (sebutkan pada kolom pertanyaan berikutnya),Ektima,keringat,> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+21 tahun,"Kontrol 1 minggu. Kunjungan pertama dengan keluhan area siku kiri, sering muncul keluhan kulit kemerahan membasah berulang sejak lama.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita",Tidak ada,Infeksi gigi dan gusi,,TIdak ada ,> 4 minggu,"Alergi makanan, Asma bronkiale","Riwayat penyakit yang sama, Asma bronkiale",dermatitis atopic
+9 tahun,"Kontrol 3 minggu. Kunjungan pertama tgl 09/11/2022 dengan keluhan gatal di seluruh tubuh serta kulit kering sejak 1,5 tahun lalu. Keluhan gatal hilang timbul.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis",Tidak ada,Tidak ada,,TIdak ada,> 4 minggu,Rinitis alergi,"Riwayat penyakit yang sama, Rinitis alergi",dermatitis atopic
+20 tahun,"Kontrol 2 minggu. Dalam 2 minggu terakhir, terdapat keluhan bintil merah yang terasa gatal bertambah banyak terutama di dada, perut, punggung, lengan, dan tungkai.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Peningkatan IgE serum, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"keringat, suhu panas, gluten dan turunan produk berbasis gluten, kepiting, almond",> 4 minggu,Alergi makanan,Rinitis alergi,dermatitis atopic
+43 tahun,"Kontrol 1 bulan, tidak ada keluhan bercak baru.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Iktiosis / hiperlinear palmar / keratosis pilaris, Peningkatan IgE serum, Gatal bila berkeringat, Intoleransi terhadap wol dan pelarut lemak (lipid solvents), Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Ada,Tidak ada,,"keringat, banyak pikiran/stress, baju bahan tebal",> 4 minggu,"Rinitis alergi, Asma bronkiale",Tidak ada riwayat,dermatitis atopic
+20,"Kontrol 1 bulan dengan keluhan bercak dan bintil merah baru timbul terutama pada dada sejak 1 minggu yang lalu. 
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Peningkatan IgE serum, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"keringat, suhu panas, gluten dan turunan produk berbasis gluten, kepiting, almond",> 4 minggu,Alergi makanan,Rinitis alergi,dermatitis atopic
+12 tahun,"Kontrol 2 minggu. Kunjungan pertama tgl 25/2/2021 dengan keluhan terdapat bercak kehitaman gatal pada lipat leher  belakang, badan, punggung, lipat ketiak, lipat siku, lipat lutut dan tungkai sejak 3 tahun terakhir
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Cheilitis, Area gelap di infraorbita, Gatal bila berkeringat",Tidak ada,Tidak ada,,-,> 4 minggu,"Riwayat penyakit yang sama, Rinitis alergi, Asma bronkiale",Tidak ada riwayat,dermatitis atopic
+26 tahun,"Kontrol 1 minggu dengan kondisi kulit sudah jauh membaik. Kunjungan pertama pada tanggal 17/10/2020 dengan keluhan utama tidak ada data 
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak
+Xerosis, Peningkatan IgE serum, Lipatan pada leher sisi anterior",Tidak ada,Tidak ada,,tidak ada,> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+59 tahun,"Pasien datang pertama tgl 26/09/2023 dengan keluhan bercak merah kehitaman disertai gatal sejak 4 tahun yang lalu di siku kanan kemudian menyebar ke siku kiri, kedua tungkai bawah, kedua lengan, dan punggung.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,Keringat pada suhu panas dan dingin.,> 4 minggu,Diabetes melitus,"Riwayat penyakit yang sama, Asma bronkiale",dermatitis atopic
+2 tahun 9 bln,"Kontrol 1 minggu dengan keluhan muncul bercak baru di area pipi kanan. Kunjungan pertama tgl 10/11/2022 dengan keluhan bercak kemerahan pada kedua telinga, dada, dan kedua tungkai sejak 4 bulan terakhir. 
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Awitan pada usia dini, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"keringat, suhu panas",> 4 minggu,Rinitis alergi,Tidak ada riwayat,dermatitis atopic
+21 tahun,"Kontrol 1 minggu. Kunjungan pertama dengan keluhan area siku kiri, sering muncul keluhan kulit kemerahan membasah berulang sejak lama.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita",Tidak ada,Infeksi gigi dan gusi,,TIdak ada,> 4 minggu,"Alergi makanan, Asma bronkiale","Riwayat penyakit yang sama, Asma bronkiale",dermatitis atopic
+4 tahun,"Kontrol 2,5 bulan. Kunjungan pertama kali saat rawat inap tgl 28/6/2022 dengan keluhan bercak merah diwajah dan seluruh tubuh sejak 2 bulan terakhir
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Peningkatan IgE serum, Awitan pada usia dini, Gatal bila berkeringat, Intoleransi makanan",Tidak ada,Tidak ada,,suhu,> 4 minggu,Alergi makanan,"Riwayat penyakit yang sama, Rinitis alergi, Asma bronkiale",dermatitis atopic
+29 tahun,"Kontrol 2 minggu. Kunjungan pertama tgl 22/04/2024 dengan keluhan muncul bercak merah disertai lenting-lenting di tangan yang hilang timbul sejak 4 tahun lalu.
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Kecenderungan mengalami dermatitis non-spesifik pada tangan dan kaki, Dermatitis pada puting susu, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,keringat,> 4 minggu,"Riwayat penyakit yang sama, Rinitis alergi",Riwayat penyakit yang sama,dermatitis atopic
+23 tahun,"Kontrol 1 bulan keluhan bercak merah dan atal di punggung, lengan, pubis, dan tungkai memberat sejak 2 minggu terakhir. Kunjungan pertama tgl 7/7/2022 dengan keluhan bercak dan bintil kemerahan di wajah, lengan, paha, dan tungkai sejak 4 tahun terakhir. Hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Area gelap di infraorbita, Wajah pucat atau eritema, Gatal bila berkeringat",Tidak ada,Tidak ada,,"Suhu (panas), keringat",> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+41 tahun,"Kontrol 1 bulan, tidak ada keluhan bercak baru.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Iktiosis / hiperlinear palmar / keratosis pilaris, Peningkatan IgE serum, Gatal bila berkeringat, Intoleransi terhadap wol dan pelarut lemak (lipid solvents), Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Ada,Infeksi gigi dan gusi,,"keringat, banyak pikiran/stress, baju bahan tebal",> 4 minggu,"Rinitis alergi, Asma bronkiale",Tidak ada riwayat,dermatitis atopic
+21 tahun,"Kontrol 1 minggu. Kunjungan pertama dengan keluhan area siku kiri, sering muncul keluhan kulit kemerahan membasah berulang sejak lama.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita",Tidak ada,Infeksi gigi dan gusi,,Tidak ada,> 4 minggu,"Alergi makanan, Asma bronkiale","Alergi makanan, Asma bronkiale",dermatitis atopic
+39 tahun ,"Kontrol 1 minggu dengan kondisi kulit masih sama berupa bercak merah besar pada hampir seluruh tubuh. Kinjungan pertama kali pada tgl 25/10/2022 dengan keluhan bercak merah basah yang gatal hampir seluruh tubuh sejak 7 tahun terakhir
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Peningkatan IgE serum, Area gelap di infraorbita, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Infeksi gigi dan gusi,,Stress dan banyak pikiran,> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+26 tahun,"Kontrol 1 minggu dengan kondisi kulit sudah jauh membaik. Kunjungan pertama pada tanggal 17/10/2020 dengan keluhan utama tidak ada data 
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak
+Xerosis, Peningkatan IgE serum, Lipatan pada leher sisi anterior",Tidak ada,Tidak ada,,tidak ada ,> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+15 tahun,"Kontrol 2 minggu dengan keluhan bercak merah pada lipatan siku hilang timbul. Kunjungan pertama kali tgl 19/3/2021 dengan keluhan bercak kemerahan pada lipat lengan sejak 1 bulan terakhir
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Peningkatan IgE serum, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,debu,> 4 minggu,"Rinitis alergi, Asma bronkiale",Asma bronkiale,dermatitis atopic
+48 tahun,"Kontrol setelah 3 kali fototerapi. Kunjungan pertama tgl 09/11/2023 dengan keluhan gatal di area kedua ekstremitas atas, perut, dada, leher, paha kiri dalam dan betis bawah kiri yang memberat sejak 1 bulan terakhir
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"banyak pikiran, keringat",> 4 minggu,"Riwayat penyakit yang sama, Rinitis alergi, Keganasan",Tidak ada riwayat,dermatitis atopic
+17 tahun,"Kontrol 2 minggu. Kunjungan pertama tgl 13/03/2023 dengan keluhan bercak merah gatal di seluruh tubuh sejak 2 tahun terakhir, kambuh - kambuhan.
+Pruritus, Dermatitis kronik / kronis berulang, ""Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)""
+Xerosis, Cheilitis, Area gelap di infraorbita, Lipat Dennie-Morgan pada daerah infraorbital, Lipatan pada leher sisi anterior",Tidak ada,Tidak ada,,"sinar matahari, makanan (seafood), debu",> 4 minggu,"riwayat penyakit yang sama, rinitis alergi, alergi makanan, asma bronkiale",Asma bronkiale,dermatitis atopic
+24 tahun,"Terdapat keluhan bercak merah dan gatal di seluruh tubuh memberat sejak 1 bulan terakhir, kambuh-kambuhan 
+Pruritus, Dermatitis kronik / kronis berulang
+Xerosis, Peningkatan IgE serum, Gatal bila berkeringat, Lipatan pada leher sisi anterior",Tidak ada,Tidak ada,,"bila akan menstruasi, sinar matahari, debu",> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+23 tahun,"Kontrol 1 bulan keluhan bercak merah dan atal di punggung, lengan, pubis, dan tungkai memberat sejak 2 minggu terakhir. Kunjungan pertama tgl 7/7/2022 dengan keluhan bercak dan bintil kemerahan di wajah, lengan, paha, dan tungkai sejak 4 tahun terakhir. Hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Area gelap di infraorbita, Wajah pucat atau eritema, Gatal bila berkeringat",Tidak ada,Tidak ada,,SR,> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+21 tahun,"Terdapat keluhan bercak dan bintil merah gatal awalnya muncul di kedua paha hingga tungkai bawah, leher, punggung, dada, dan kedua lengan atas sejak 2 minggu terakhir. 
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Awitan pada usia dini, Dermatitis pada puting susu, Area gelap di infraorbita, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"keringat, suhu panas",> 4 minggu,Riwayat penyakit yang sama,"Riwayat penyakit yang sama, Diabetes melitus",dermatitis atopic
+38 tahun,"Pasien datang dengan keluhan gatal pada lengan, lipat siku,tungkai, lipat lutut sejak 2 tahun terakhir dan memberat 2 minggu yang lalu, hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"Keringat, suhu panas",> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+9 tahun,"Kontrol 3 minggu. Kunjungan pertama tgl 09/11/2022 dengan keluhan gatal di seluruh tubuh serta kulit kering sejak 1,5 tahun lalu. Keluhan gatal hilang timbul.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis",Tidak ada,Tidak ada,,Tidak ada,> 4 minggu,Rinitis alergi,"Riwayat penyakit yang sama, Rinitis alergi",dermatitis atopic
+31 tahun,"Terdapat bercak merah di kedua tangan dan kedua kaki yang disertai gatal sejak usia 3 tahun 
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Awitan pada usia dini, Kecenderungan mengalami dermatitis non-spesifik pada tangan dan kaki, Area gelap di infraorbita, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,suhu,> 4 minggu,Rinitis alergi,"Riwayat penyakit yang sama, Asma bronkiale",dermatitis atopic
+3 tahun,"Kontrol 2 minggu. Saat ini bercak pada kedua pipi bertambah luas dan merah dan terasa gatal. Kunjungan pertama tgl 24/01/2022 dengan keluhan bercak di kedua pipi dan daerah lipat lengan, leher dan lipat kaki sejak Oktober 2021 
+Pruritus, ""Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak"", ""Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)""
+Xerosis, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi, Peningkatan IgE serum",Tidak ada,Tidak ada,,"suhu, makanan (coklat), sinar matahari",> 4 minggu,rinitis alergi,tidak ada riwayat,dermatitis atopic
+4 tahun,"Kontrol pasca fototerapi. Kunjungan pertama tgl 22/6/2022 dengan keluhan terdapat bercak merah di wajahsejak 8 bulan terakhir 
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Peningkatan IgE serum, Awitan pada usia dini, Dermatitis pada puting susu, Gatal bila berkeringat, Intoleransi makanan",Tidak ada,Tidak ada,,Tidak ada,> 4 minggu,Tidak ada riwayat,"Riwayat penyakit yang sama, Rinitis alergi, Asma bronkiale",dermatitis atopic
+5 tahun,"Pasien datang dengan keluhan bintil kemerahan pada area badan disertai gatal sejak 1 tahun terakhir. Hilang timbul.
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Awitan pada usia dini, Intoleransi makanan",Tidak ada,Lain - lain (sebutkan pada kolom pertanyaan berikutnya),Impetigo krustosa,Makanan (Ayam),> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+2tahun 11 bln,"Kontrol 2 minggu dengan keluhan muncul bercak kemerahan yang membasah di ibu jari kaki kiri sejak 2 hari yang lalu. Kunjungan pertama tgl 10/11/2022 dengan keluhan bercak kemerahan pada kedua telinga, dada, dan kedua tungkai sejak 4 bulan terakhir. 
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Awitan pada usia dini, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"keringat, suhu panas",> 4 minggu,Rinitis alergi,Tidak ada riwayat,dermatitis atopic
+21 tahun,"Kontrol 1 minggu dengan keluhan wajah dan tangan masih terasa gatal. Kunjungan pertama dengan keluhan area siku kiri, sering muncul keluhan kulit kemerahan membasah berulang sejak lama.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita",Tidak ada,Tidak ada,,Tidak ada,> 4 minggu,"Alergi makanan, Asma bronkiale","Riwayat penyakit yang sama, Asma bronkiale",dermatitis atopic
+23tahun,"Kontrol 2 minggu keluhan bercak merah dan atal di punggung, lengan, pubis, dan tungkai bertambah sejak 2 minggu terakhir. Kunjungan pertama tgl 7/7/2022 dengan keluhan bercak dan bintil kemerahan di wajah, lengan, paha, dan tungkai sejak 4 tahun terakhir. Hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Area gelap di infraorbita, Wajah pucat atau eritema, Gatal bila berkeringat",Tidak ada,Tidak ada,,"Suhu (panas), keringat",> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+28 tahun,"Terdapat keluhan bercak kemerahan yang gatal hampir di seluruh tubuh sejak 1 minggu
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak
+Xerosis, Area gelap di infraorbita, Gatal bila berkeringat",Tidak ada,Tidak ada,Selulitis pedis,keringat,1 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+4 tahun,"Kontrol 2 minggu pasca rawat inap. Kunjungan pertama tgl 22/6/2022 dengan keluhan terdapat bercak merah di wajahsejak 8 bulan terakhir 
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Peningkatan IgE serum, Awitan pada usia dini, Dermatitis pada puting susu, Gatal bila berkeringat, Intoleransi makanan",Tidak ada,Tidak ada,,Tidak ada,> 4 minggu,Tidak ada riwayat,"Riwayat penyakit yang sama, Rinitis alergi, Asma bronkiale",dermatitis atopic
+3 tahun,"Kontrol 2 bulan. Kunjungan pertama tgl 30/09/2022 dengan keluhan terdapat riwayat ruam merah sejak bayi yang hilang timbul pada seluruh tubuh
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Peningkatan IgE serum, Awitan pada usia dini",Tidak ada,Tidak ada,,susu formula,> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+23 tahun,"Kontrol 1 bulan keluhan bercak merah dan atal di punggung, lengan, pubis, dan tungkai memberat sejak 2 minggu terakhir. Kunjungan pertama tgl 7/7/2022 dengan keluhan bercak dan bintil kemerahan di wajah, lengan, paha, dan tungkai sejak 4 tahun terakhir. Hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Area gelap di infraorbita, Wajah pucat atau eritema",Tidak ada,Tidak ada,,"Suhu (panas), keringat",> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+36 tahun,"Kontrol 2 minggu dengan keluhan bercak merah membasah baru di area wajah dan telinga sejak 3 hari yang lalu. Kunjungan pertama tgl 04/07/2024 dengan keluhan bercak kemerahan dan terasa gatal kemudian menghitam sejak 3 bulan yang lalu.
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Peningkatan IgE serum, Kecenderungan infeksi kulit (khususnya S. aureus dan Herpes simplex), imunitas seluler yang terganggu, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita, Gatal bila berkeringat",Tidak ada,Tidak ada,,keringat,> 4 minggu,Asma bronkiale,Tidak ada riwayat,dermatitis atopic
+2 tahun 11 bln,"Kontrol 2 minggu dengan keluhan muncul bercak kemerahan yang membasah di ibu jari kaki kiri sejak 2 hari yang lalu. Kunjungan pertama tgl 10/11/2022 dengan keluhan bercak kemerahan pada kedua telinga, dada, dan kedua tungkai sejak 4 bulan terakhir. 
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Awitan pada usia dini, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"keringat, suhu panas",> 4 minggu,Rinitis alergi,Tidak ada riwayat,dermatitis atopic
+2 tahun 9 bln,"Kontrol 1 minggu dengan keluhan muncul bercak baru di area pipi kanan. Kunjungan pertama tgl 10/11/2022 dengan keluhan bercak kemerahan pada kedua telinga, dada, dan kedua tungkai sejak 4 bulan terakhir. 
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Awitan pada usia dini, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"keringat, suhu panas",> 4 minggu,Rinitis alergi,Tidak ada riwayat,dermatitis atopic
+22 tahun,"Kontrol 6 bulan dengan keluhan kulit menjadi kering sejak 3 minggu yang lalu. Kunjungan pertama tanggal 5 may 2023 dgn keluhan bercak merah hampir seluruh tubuh hilang timbul sejak 8 tahun yang lalu
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Peningkatan IgE serum, Dermatitis pada puting susu, Lipat Dennie-Morgan pada daerah infraorbital, Lipatan pada leher sisi anterior, Gatal bila berkeringat, Intoleransi makanan, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,suhu dingin dan pagi hari,> 4 minggu,Alergi makanan,Asma bronkiale,dermatitis atopic
+38 tahun,"Pasien datang dengan keluhan gatal pada lengan, lipat siku,tungkai, lipat lutut sejak 2 tahun terakhir dan memberat 2 minggu yang lalu, hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"keringat, suhu panas",> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+5 tahun,"Kontrol 2 bulan. Kunjungan pertama tgl 15/08/2022 dengan keluhan  sering menggaruk lesi di daerah mata sejak 6 bulan yang lalu
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita",Tidak ada,Tidak ada,,debu,> 4 minggu,Rinitis alergi,Tidak ada riwayat,dermatitis atopic
+12 tahun,"Kontrol 2 minggu dengan keluhan lenting pada kedua telapak tangan dan kaki yag terasa gatal sejak 10 hari yang lalu.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Iktiosis / hiperlinear palmar / keratosis pilaris, Kecenderungan mengalami dermatitis non-spesifik pada tangan dan kaki",Ada,Tidak ada,,Tidak ada,> 4 minggu,Riwayat penyakit yang sama,Tidak ada riwayat,dermatitis atopic
+9 tahun,"Terdapat keluhan gatal di seluruh tubuh serta kulit kering sejak 1,5 tahun lalu. Keluhan gatal hilang timbul.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis",Tidak ada,Tidak ada,,TIdak ada,> 4 minggu,Rinitis alergi,"Riwayat penyakit yang sama, Rinitis alergi",dermatitis atopic
+60 tahun,"Kontrol 2 minggu tidak terdapat bercak baru. Kunjungan pertama tanggal 23 Januari 2024 dengan keluhan bercak merah seluruh tubuh sejak 3 bulan terakhir
+Pruritus, Dermatitis kronik / kronis berulang
+Xerosis, Peningkatan IgE serum, Intoleransi makanan, Area gelap di infraorbita, Lipat Dennie-Morgan pada daerah infraorbital",Tidak ada,Tidak ada,,"makanan (seafood), suhu,",> 4 minggu,"rinitis alergi, alergi makanan, diabetes melitus, hipertensi",asma bronkiale,dermatitis atopic
+38 tahun,"Pasien datang dengan keluhan kulit terasa gatal pada area lengan, tungkai, dada, dan lipat payudara sejak 2 bulan terakhir, hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Dermatitis pada puting susu, Gatal bila berkeringat, White dermographism atau delayed blanch",Tidak ada,Lain - lain (sebutkan pada kolom pertanyaan berikutnya),Ektima,Keringat,> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+21 tahun,"Kontrol 1 minggu dengan keluhan wajah dan tangan masih terasa gatal. Kunjungan pertama dengan keluhan area siku kiri, sering muncul keluhan kulit kemerahan membasah berulang sejak lama.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita",Tidak ada,Infeksi gigi dan gusi,,TIdak ada,> 4 minggu,"Alergi makanan, Asma bronkiale","Riwayat penyakit yang sama, Asma bronkiale",dermatitis atopic
+26 tahun,"Tidak ada data
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak
+Xerosis, Peningkatan IgE serum, Lipatan pada leher sisi anterior",Tidak ada,Tidak ada,,Tidak ada data,> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+26 tahun,"Tidak ada data
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak
+Xerosis, Peningkatan IgE serum, Lipatan pada leher sisi anterior",Tidak ada,Tidak ada,,-,> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+21tahun,"Kontrol 1 minggu dengan keluhan wajah dan tangan masih terasa gatal. Kunjungan pertama dengan keluhan area siku kiri, sering muncul keluhan kulit kemerahan membasah berulang sejak lama.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita",Tidak ada,Infeksi gigi dan gusi,,Tidak ada,> 4 minggu,"Alergi makanan, Asma bronkiale","Riwayat penyakit yang sama, Asma bronkiale",dermatitis atopic
+38 tahun,"Kontrol 2 minggu. Kunjungan pertama tgl 25/10/2022 dgn keluhan utama bercak merah di wajah, leher, lipat siku yang memberat 2 bulan terakhir.
+Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Awitan pada usia dini, Kecenderungan mengalami dermatitis non-spesifik pada tangan dan kaki, Area gelap di infraorbita",Ada,Tidak ada,,"Keringat, komponen sabun cuci piring (pewangi, pengawet, dikromat, nikel)",> 4 minggu,Tidak ada riwayat,Asma bronkiale,dermatitis atopic
+34 tahun,"Pasien datang dengan keluhan bercak merah di wajah, leher, belakang telinga, dada, dan punggung sejak 1 tahun terakhir hilang timbul dan memberat sejak 3 minggu
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Iktiosis / hiperlinear palmar / keratosis pilaris, Dermatitis pada puting susu, Area gelap di infraorbita, Wajah pucat atau eritema, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Ada,Tidak ada,,Tidak ada,> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+28 tahun,"Pasien datang dengan keluhan kulit terasa gatal pada area lengan, tungkai, dada, dan lipat payudara sejak 2 bulan terakhir, hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Dermatitis pada puting susu, Gatal bila berkeringat, White dermographism atau delayed blanch",Tidak ada,Lain - lain (sebutkan pada kolom pertanyaan berikutnya),Ektima,Keringat,> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+21 tahun,"Kontrol 2 minggu, tidak ada keluhan baru.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Peningkatan IgE serum, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"keringat, suhu panas, gluten dan turunan produk berbasis gluten, kepiting, almond",> 4 minggu,Alergi makanan,Rinitis alergi,dermatitis atopic
+41 tahun,"Pasien datang dengan keluhan bercak merah di wajah, leher, belakang telinga, dada, dan punggung sejak 1 tahun terakhir hilang timbul dan memberat sejak 3 minggu
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Iktiosis / hiperlinear palmar / keratosis pilaris, Kecenderungan mengalami dermatitis non-spesifik pada tangan dan kaki, Area gelap di infraorbita, Gatal bila berkeringat",Ada,Tidak ada,,Case handphone berbahan dasar karet,> 4 minggu,Rinitis alergi,Tidak ada riwayat,dermatitis atopic
+34 tahun,"Pasien datang dengan keluhan bercak merah di wajah, leher, belakang telinga, dada, dan punggung sejak 1 tahun terakhir hilang timbul dan memberat sejak 3 minggu
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Iktiosis / hiperlinear palmar / keratosis pilaris, Dermatitis pada puting susu, Area gelap di infraorbita, Lipatan pada leher sisi anterior, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Ada,Tidak ada,,Tidak ada,> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+23 tahun,"Kontrol 1 bulan. Kunjungan pertama tgl 7/7/2022 dengan keluhan bercak dan bintil kemerahan di wajah, lengan, paha, dan tungkai sejak 4 tahun terakhir. Hilang timbul
+Pruritus
+Xerosis, Area gelap di infraorbita, Wajah pucat atau eritema, Gatal bila berkeringat",Tidak ada,Tidak ada,,"Suhu (panas), keringat",> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+23 tahun,"Kontrol 1 bulan. Kunjungan pertama tgl 13/5/2022 dengan keluhan bercak merah gatal di pnggung, leher, perut, punngung, lengan dan tungkai sejak 1 tahun terakhir, terus menerus
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Peningkatan IgE serum, Awitan pada usia dini, Gatal bila berkeringat",Tidak ada,Tidak ada,,"Suhu, Makanan (seafood), debu",> 4 minggu,"Riwayat penyakit yang sama, Alergi makanan, Asma bronkiale",Tidak ada riwayat,dermatitis atopic
+21 tahun,"Kontrol 2 minggu, tidak ada keluhan baru.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Peningkatan IgE serum, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"keringat, suhu panas, gluten dan turunan produk berbasis gluten, kepiting, almond",> 4 minggu,Alergi makanan,"Rinitis alergi, Gangguan hati",dermatitis atopic
+46 tahun,"Kontrol 1 minggu. Kunjungan pertama tgl 05/02/2024 dengan keluhan bercak merah tebal terasa gatal pada lipat siku, telapak tangan, dan kedua tungkai yang memberat sejak 1 minggu terakhir.
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Iktiosis / hiperlinear palmar / keratosis pilaris, Kecenderungan mengalami dermatitis non-spesifik pada tangan dan kaki",Tidak ada,Tidak ada,,makanan (udang),> 4 minggu,Asma bronkiale,Riwayat penyakit yang sama,dermatitis atopic
+36 tahun,"Kontrol 2 minggu. Kunjungan pertama tgl 04/07/2024 dengan keluhan bercak kemerahan dan terasa gatal kemudian menghitam sejak 3 bulan yang lalu.
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Peningkatan IgE serum, Kecenderungan infeksi kulit (khususnya S. aureus dan Herpes simplex), imunitas seluler yang terganggu, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita, Gatal bila berkeringat",Tidak ada,Tidak ada,,keringat,> 4 minggu,Asma bronkiale,Tidak ada riwayat,dermatitis atopic
+21 tahun,"Terdapat keluhan bercak dan bintil merah gatal awalnya muncul di kedua paha hingga tungkai bawah, leher, punggung, dada, dan kedua lengan atas sejak 2 minggu terakhir. 
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Dermatitis pada puting susu, Area gelap di infraorbita, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"keringat, suhu panas",> 4 minggu,Riwayat penyakit yang sama,"Riwayat penyakit yang sama, Diabetes melitus",dermatitis atopic
+41 tahun,"Kontrol 1 minggu. Kunjungan pertama tgl 24/9/2022 dengan keluhan bercak kemerahan pada telapak tangan dan pergelangan tangan sejak 1 tahun terakhir, tidak pernah sembuh
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Iktiosis / hiperlinear palmar / keratosis pilaris, Kecenderungan mengalami dermatitis non-spesifik pada tangan dan kaki, Area gelap di infraorbita, Gatal bila berkeringat",Ada,Tidak ada,,Case handphone berbahan dasar karet,> 4 minggu,Rinitis alergi,Tidak ada riwayat,dermatitis atopic
+5 tahun,"Pasien datang dengan keluhan bintil kemerahan pada area badan disertai gatal sejak 1 tahun terakhir. Hilang timbul.
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Awitan pada usia dini, Intoleransi makanan",Tidak ada,Lain - lain (sebutkan pada kolom pertanyaan berikutnya),Impetigo Krustosa,Makanan (ayam),> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+23 tahun,"Kontrol 2 minggu keluhan bercak merah dan atal di punggung, lengan, pubis, dan tungkai bertambah sejak 2 minggu terakhir. Kunjungan pertama tgl 7/7/2022 dengan keluhan bercak dan bintil kemerahan di wajah, lengan, paha, dan tungkai sejak 4 tahun terakhir. Hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Area gelap di infraorbita, Wajah pucat atau eritema, Gatal bila berkeringat",Tidak ada,Tidak ada,,"Suhu (panas), keringat",> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+21 tahun,"Terdapat keluhan bercak merah yang gatal pada kedua tungkai bawah sejak 7 bulan lalu dan melas hingga ke lengan, lipat siku, perut, dan punggung dan memberat sejak 2 bulan terakhir. Hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Area gelap di infraorbita, Gatal bila berkeringat, Intoleransi terhadap wol dan pelarut lemak (lipid solvents), Intoleransi makanan",Tidak ada,Tidak ada,,"Keringat, debu, makanan (udang)",> 4 minggu,Tidak ada riwayat,Asma bronkiale,dermatitis atopic
+23 tahun,"Kontrol 1 bulan keluhan bercak merah dan atal di punggung, lengan, pubis, dan tungkai memberat sejak 2 minggu terakhir. Kunjungan pertama tgl 7/7/2022 dengan keluhan bercak dan bintil kemerahan di wajah, lengan, paha, dan tungkai sejak 4 tahun terakhir. Hilang timbul
+Dermatitis kronik / kronis berulang
+Xerosis, Area gelap di infraorbita, Wajah pucat atau eritema, Gatal bila berkeringat",Tidak ada,Tidak ada,,"Suhu (panas), keringat",> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+38 tahun,"Pasien datang dengan keluhan gatal pada lengan, lipat siku,tungkai, lipat lutut sejak 2 tahun terakhir dan memberat 2 minggu yang lalu, hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"Keringat, suhu panas",> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+23tahun,"Kontrol 1 bulan keluhan bercak merah dan atal di punggung, lengan, pubis, dan tungkai memberat sejak 2 minggu terakhir. Kunjungan pertama tgl 7/7/2022 dengan keluhan bercak dan bintil kemerahan di wajah, lengan, paha, dan tungkai sejak 4 tahun terakhir. Hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Area gelap di infraorbita, Wajah pucat atau eritema, Gatal bila berkeringat",Tidak ada,Tidak ada,,"Suhu (panas), keringat",> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+38 tahun," dr. Erina/ dr. Eyleny, Sp. DVE
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"Keringat, suhu panas",> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+5 tahun,"Pasien datang dengan keluhan bintil kemerahan pada area badan disertai gatal sejak 1 tahun terakhir. Hilang timbul.
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Awitan pada usia dini, Intoleransi makanan",Tidak ada,Lain - lain (sebutkan pada kolom pertanyaan berikutnya),Impetigo krustosa,Makanan (ayam),> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+2 tahun 8 bln,"Kontrol 2 minggu dengan keluhan bercak baru di wajah sejak 3 hari yang lalu. Kunjungan pertama tgl 24/01/2022 dengan keluhan bercak di kedua pipi dan daerah lipat lengan, leher dan lipat kaki sejak Oktober 2021 
+""Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak"", Pruritus, ""Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)""
+Xerosis, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi, Peningkatan IgE serum",Tidak ada,Tidak ada,,"suhu, makanan (coklat), sinar matahari",> 4 minggu,rinitis alergi,tidak ada riwayat,dermatitis atopic
+2 tahun 9 bln,"Kontrol 2 minggu dengan keluhan muncul bercak kemerahan yang membasah di ibu jari kaki kiri sejak 2 hari yang lalu. Kunjungan pertama tgl 10/11/2022 dengan keluhan bercak kemerahan pada kedua telinga, dada, dan kedua tungkai sejak 4 bulan terakhir. 
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Awitan pada usia dini, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"keringat, suhu panas",> 4 minggu,Rinitis alergi,Tidak ada riwayat,dermatitis atopic
+22 tahun,"Kontrol 2 bulan dengan bercak merah masih gatal pada area perut. Kunjungan pertama kali tgl 6/7/2022 dengan keluhan bercak merah bersisik gatal pada kepala sejak 2 bulan terakhir  
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,Keringat,> 4 minggu,Riwayat penyakit yang sama,Riwayat penyakit yang sama,dermatitis atopic
+56 tahun,"Kontrol 2 minggu. Kunjungan pertama tgl 07/11/2023.
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Kecenderungan mengalami dermatitis non-spesifik pada tangan dan kaki, Gatal bila berkeringat",Tidak ada,Tidak ada,,"keringat, debu",> 4 minggu,Rinitis alergi,Tidak ada riwayat,dermatitis atopic
+23 tahun,"Kontrol 1 bulan. Kunjungan pertama tgl 7/7/2022 dengan keluhan bercak dan bintil kemerahan di wajah, lengan, paha, dan tungkai sejak 4 tahun terakhir. Hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Area gelap di infraorbita, Wajah pucat atau eritema, Gatal bila berkeringat",Tidak ada,Tidak ada,,"Suhu (panas), keringat",> 4 minggu,Tidak ada riwayat,"Tidak ada riwayat, Hipertensi",dermatitis atopic
+56 tahun,"Kontrol 2 minggu dengan keluhan muncul keluhan bercak merah yang disertai gatal di lipatan leher kiri sejak 1 minggu. Kunjungan pertama tgl 07/11/2023.
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Kecenderungan mengalami dermatitis non-spesifik pada tangan dan kaki, Gatal bila berkeringat",Tidak ada,Tidak ada,,"Keringat, debu",> 4 minggu,Rinitis alergi,Tidak ada riwayat,dermatitis atopic
+21 tahun ,"Kontrol 1 minggu dengan keluhan wajah dan tangan masih terasa gatal. Kunjungan pertama dengan keluhan area siku kiri, sering muncul keluhan kulit kemerahan membasah berulang sejak lama.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita",Tidak ada,Infeksi gigi dan gusi,,Tidak ada,> 4 minggu,"Alergi makanan, Asma bronkiale","Riwayat penyakit yang sama, Asma bronkiale",dermatitis atopic
+14 tahun,"Terdapat bruntus-bruntus gatal di lutut kiri pasien sejak 2 bulan yang lalu.
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Kecenderungan infeksi kulit (khususnya S. aureus dan Herpes simplex), imunitas seluler yang terganggu",Tidak ada,Tidak ada,,Tidak ada,> 4 minggu,Tidak ada riwayat,Rinitis alergi,dermatitis atopic
+12 tahun,"Terdapat keluhan bercak merah dan gatal pada area lipat lutut dan perut sejak 6 bulan terakhir, hilang timbul
+Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Kecenderungan mengalami dermatitis non-spesifik pada tangan dan kaki, Aksentuasi perifolikular",Tidak ada,Infeksi telinga,,Debu,> 4 minggu,Tidak ada riwayat,"Riwayat penyakit yang sama, Rinitis alergi, Asma bronkiale",dermatitis atopic
+2 tahun,"Terdapat keluhan bercak kemerahan gatal pada area leher sejak pasien umur 3 bulan. 
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Iktiosis / hiperlinear palmar / keratosis pilaris, Awitan pada usia dini",Tidak ada,Tidak ada,,"makanan (telur, bolu, roti)",> 4 minggu,"Riwayat penyakit yang sama, Alergi makanan",Rinitis alergi,dermatitis atopic
+56 tahun,"Kontrol 2 minggu dengan keluhan muncul keluhan bercak merah yang disertai gatal di lipatan leher kiri sejak 1 minggu. Kunjungan pertama tgl 07/11/2023.
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Kecenderungan mengalami dermatitis non-spesifik pada tangan dan kaki, Gatal bila berkeringat",Tidak ada,Tidak ada,,"Keringat, debu
+",> 4 minggu,Rinitis alergi,Tidak ada riwayat,dermatitis atopic
+60 tahun,"Kontrol 2 bulan dengan keluhan muncul bercak dan bitil merah 2 minggu terakhir. Kunjungan pertama tanggal 23 Januari 2024 dengan keluhan bercak merah seluruh tubuh sejak 3 bulan terakhir
+Pruritus, Dermatitis kronik / kronis berulang
+Xerosis, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita, Intoleransi makanan, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"makanan (seafood), suhu,",> 4 minggu,"rinitis alergi, alergi makanan, diabetes melitus, hipertensi",asma bronkiale,dermatitis atopic
+28 tahun,"Kontrol 1 minggu. Kunjungan pertama tgl 6/10/2022 dengan keluhan  kulit terasa gatal pada area lengan, tungkai, dada, dan lipat payudara sejak 2 bulan terakhir, hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Peningkatan IgE serum, Dermatitis pada puting susu, Gatal bila berkeringat, White dermographism atau delayed blanch",Tidak ada,Lain - lain (sebutkan pada kolom pertanyaan berikutnya),Ektima,keringat,> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+48 tahun,"Kontrol 4 hari. Kunjungan pertama tgl 09/11/2023 dengan keluhan gatal di area kedua ekstremitas atas, perut, dada, leher, paha kiri dalam dan betis bawah kiri yang memberat sejak 1 bulan terakhir
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Gatal bila berkeringat, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"banyak pikiran, keringat",> 4 minggu,"Riwayat penyakit yang sama, Rinitis alergi, Keganasan",Tidak ada riwayat,dermatitis atopic
+17 tahun,"Terdapat keluhan bercak merah gatal di seluruh tubuh sejak 2 tahun terakhir, kambuh - kambuhan.
+Pruritus, Dermatitis kronik / kronis berulang, ""Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)""
+Xerosis, Cheilitis, Area gelap di infraorbita, Lipat Dennie-Morgan pada daerah infraorbital, Lipatan pada leher sisi anterior",Tidak ada,Tidak ada,,"sinar matahari, makanan (seafood), debu",> 4 minggu,"riwayat penyakit yang sama, rinitis alergi, alergi makanan, asma bronkiale",Asma bronkiale,dermatitis atopic
+12 tahun,"Kontrol 1 hari pasca konsultasi di Pediatri.Kunjungan pertama tgl 29/8/2024 dengan keluhan  saat ini masih terdapat bintil gatal di lengan, paha, dan lutut sejak 4 tahun terakhir. Hilang timbul
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Awitan pada usia dini, Gatal bila berkeringat",Tidak ada,Tidak ada,,Tidak ada,> 4 minggu,Asma bronkiale,Riwayat penyakit yang sama,dermatitis atopic
+23 tahun,"Kontrol 2 minggu keluhan bercak merah dan atal di punggung, lengan, pubis, dan tungkai bertambah sejak 2 minggu terakhir. Kunjungan pertama tgl 7/7/2022 dengan keluhan bercak dan bintil kemerahan di wajah, lengan, paha, dan tungkai sejak 4 tahun terakhir. Hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Area gelap di infraorbita, Wajah pucat atau eritema, Gatal bila berkeringat",Tidak ada,Tidak ada,,"Suhu (panas), keringat",> 4 minggu,Riwayat penyakit yang sama,Riwayat penyakit yang sama,dermatitis atopic
+17 tahun,"Kontrol 1 minggu dengan terdapat bercak gatal baru pada tungkai kiri sejak 2 hari yang lalu. Kunjungan pertama tanggal 15/2/2024 dengan keluhan bercak merah gatal di lengan, ujing jari tangan, perut, punggung, bohonh, paha, dan tungkai sejak 14 tahun yamg lalu dan memberat dalam 1 bulan terakhir. Hilang timbul
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Iktiosis / hiperlinear palmar / keratosis pilaris, Awitan pada usia dini, Kecenderungan mengalami dermatitis non-spesifik pada tangan dan kaki, Dermatitis pada puting susu, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita, Gatal bila berkeringat",Tidak ada,Tidak ada,,"Debu, bulu hewan (kucing), makanan (ikan tongkol)",> 4 minggu,"Rinitis alergi, Asma bronkiale","Riwayat penyakit yang sama, Rinitis alergi, Asma bronkiale",dermatitis atopic
+3 tahun,"Kontrol 2 bulan. Kunjungan pertama tgl 30/09/2022 dengan keluhan terdapat riwayat ruam merah sejak bayi yang hilang timbul pada seluruh tubuh
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Peningkatan IgE serum, Awitan pada usia dini",Tidak ada,Tidak ada,,susu formula,> 4 minggu,Tidak ada riwayat,"Riwayat penyakit yang sama, Rinitis alergi, Asma bronkiale",dermatitis atopic
+67 tahun,"Kontrol 2 bulan. Kunjungan pertama tgl 19/08/2022 dengan keluhan gatal pada lengan, tungkai, punggung, dada memberat sejak 6 bulan terakhir.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Area gelap di infraorbita, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"suhu panas dan dingin, debu, banyak pikiran, makanan (ikan peda)",> 4 minggu,"Rinitis alergi, Alergi makanan",Riwayat penyakit yang sama,dermatitis atopic
+35 tahun,"Kontrol 2 minggu. Kunjungan pertama tgl 4/3/2024 dengan keluhan bercak kemerahan disertai gatal pada daerah pinggang, lengan, dan kaki sejak 2 tahun terakhir, hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Kecenderungan mengalami dermatitis non-spesifik pada tangan dan kaki, Area gelap di infraorbita",Tidak ada,Tidak ada,,"Makanan (seafood), Debu",> 4 minggu,Alergi makanan,Alergi makanan,dermatitis atopic
+24 tahun,"Kontrol 1 bulan. Kunjungan pertama tgl 13/5/2022 dengan keluhan bercak merah gatal di pnggung, leher, perut, punngung, lengan dan tungkai sejak 1 tahun terakhir, terus menerus
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Peningkatan IgE serum, Awitan pada usia dini, Gatal bila berkeringat",Tidak ada,Tidak ada,,"Suhu, Makanan (seafood), debu",> 4 minggu,"Riwayat penyakit yang sama, Alergi makanan, Asma bronkiale",Tidak ada riwayat,dermatitis atopic
+9 tahun,"lengan,tungkai, ketiak perut, pubis
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis",Tidak ada,Tidak ada,,Tidak ada,> 4 minggu,Rinitis alergi,"Riwayat penyakit yang sama, Rinitis alergi",dermatitis atopic
+28 tahun,"Pasien datang dengan keluhan kulit terasa gatal pada area lengan, tungkai, dada, dan lipat payudara sejak 2 bulan terakhir, hilang timbul
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Dermatitis pada puting susu, Gatal bila berkeringat, White dermographism atau delayed blanch",Tidak ada,Lain - lain (sebutkan pada kolom pertanyaan berikutnya),ektima,Keringat,> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+36 tahun,"Terdapat keluhan bercak merah pada wajah, leher, batang tubuh dan ekstremitas atas dan bawah yang memberat sejak 1 bulan yang lalu.
+Pruritus, Dermatitis kronik / kronis berulang, ""Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)""
+Xerosis, Area gelap di infraorbita, Iktiosis / hiperlinear palmar / keratosis pilaris, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Tidak ada,Tidak ada,,"banyak pikiran dan pekerjaan, makanan (seafood)",> 4 minggu,"riwayat penyakit yang sama, asma bronkiale","Pruritus, Dermatitis kronik / kronis berulang, ""Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)""",dermatitis atopic
+10 tahun,"Terdapat keluhan bercak merah gatal di kedua lipat siku sejak 1 bulan terakhir.
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak
+Xerosis",Tidak ada,Tidak ada,,Tidak ada,> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+9 tahun,"Terdapat keluhan gatal di seluruh tubuh serta kulit kering sejak 1,5 tahun lalu. Keluhan gatal hilang timbul.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis",Tidak ada,Tidak ada,,Tidak ada,> 4 minggu,Rinitis alergi,"Riwayat penyakit yang sama, Rinitis alergi",dermatitis atopic
+60 tahun,"Kontrol 2 bulan dengan keluhan terdapat luka baru di telapak kaki sejak 2 minggu terakhir. Kunjungan pertama tgl 10/2/2022 dengan keluhan bintil dan bercak kemerahan yang gatal di dahi dan punggung sejak 1 bulan yang lalu
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Lipat Dennie-Morgan pada daerah infraorbital, Gatal bila berkeringat, Intoleransi makanan",Tidak ada,Tidak ada,,"Suhu (panas), keringat, debu",> 4 minggu,Rinitis alergi,Tidak ada riwayat,dermatitis atopic
+34 tahun,"Pasien datang dengan keluhan bercak merah di wajah, leher, belakang telinga, dada, dan punggung sejak 1 tahun terakhir hilang timbul dan memberat sejak 3 minggu
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang
+Xerosis, Iktiosis / hiperlinear palmar / keratosis pilaris, Dermatitis pada puting susu, Area gelap di infraorbita, Wajah pucat atau eritema, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Ada,Tidak ada,,Tidak ada,> 4 minggu,Tidak ada riwayat,Tidak ada riwayat,dermatitis atopic
+21 tahun,"Kontrol 1 minggu. Kunjungan pertama dengan keluhan area siku kiri, sering muncul keluhan kulit kemerahan membasah berulang sejak lama.
+Pruritus, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Xerosis, Lipat Dennie-Morgan pada daerah infraorbital, Area gelap di infraorbita",Tidak ada,Infeksi gigi dan gusi,,Tidak ada,> 4 minggu,"Alergi makanan, Asma bronkiale","Riwayat penyakit yang sama, Asma bronkiale",dermatitis atopic
+31 tahun,"Kontrol 1 minggu. Kunjungan pertama tgl 08/02/2023 dengan keluhan terdapat bercak kemerahan pada siku dan lengan kiri sejak 1 bulan yang lalu.
+Pruritus, Likenifikasi fleksural / linearitas pada pasien dewasa, keterlibatan area wajah / ekstensor pada pasien bayi dan anak, Dermatitis kronik / kronis berulang, Riwayat atopi pada diri / keluarga (asma bronkial, rinitis alergi, dermatitis atopik)
+Kecenderungan infeksi kulit (khususnya S. aureus dan Herpes simplex), imunitas seluler yang terganggu, Dermatitis pada puting susu, Perjalanan penyakit dipengaruhi oleh faktor lingkungan dan emosi",Ada,Infeksi gigi dan gusi,,"suhu dingin, stress, brace",> 4 minggu,"Riwayat penyakit yang sama, Rinitis alergi",Tidak ada riwayat,dermatitis atopic

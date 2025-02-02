@@ -27,6 +27,9 @@ const parseTextToSpan = (text: string) => {
     <div v-if="answer" class="flex items-center justify-center h-1/3">
       <Buble :isLoading="isLoading" :text="parseTextToSpan(answer)" />
     </div>
+    <div v-else class="flex items-center justify-center h-1/3">
+      <Icon v-if="isLoading" name="eos-icons:loading" size="300" style="color: black" />
+    </div>
     <div class="flex items-center w-full justify-center bg-green-100">
       <textarea
           v-model="textInput"

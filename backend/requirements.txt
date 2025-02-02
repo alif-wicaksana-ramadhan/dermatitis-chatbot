@@ -1,4 +1,5 @@
 fastapi[standard]==0.115.8
 haystack-ai==2.9.0
 python-dotenv==1.0.1
+mongodb-atlas-haystack==1.0.0
 sentence-transformers==3.4.1

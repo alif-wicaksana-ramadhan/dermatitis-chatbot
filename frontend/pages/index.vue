@@ -1,26 +1,36 @@
 <script setup lang="ts">
-const response = ref('');
+const answer = ref('');
 const textInput = ref('');
+const isLoading = ref(false);
 
 const submitMessage = async () => {
+  const question = textInput.value;
+  textInput.value = '';
+  isLoading.value = true;
   const data = await $fetch('/api/submit', {
     method: 'post',
-    body: { text: textInput.value },
+    body: { question: question },
   })
-  textInput.value = '';
   console.log(data)
+  answer.value = data.data.answer;
+  isLoading.value = false;
+}
+
+const parseTextToSpan = (text: string) => {
+  return text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
 }
 </script>
 
 <template>
   <div class="container p-4 mx-auto flex flex-col h-screen items-center justify-evenly bg-yellow-100">
     <span class="text-7xl">Dermatitis AI</span>
-    <div v-if="response" class="flex items-center justify-center h-1/3 bg-green-100">
-      <Buble :text="response" />
+    <div v-if="answer" class="flex items-center justify-center h-1/3">
+      <Buble :isLoading="isLoading" :text="parseTextToSpan(answer)" />
     </div>
-    <div class="flex items-center justify-center bg-green-100">
+    <div class="flex items-center w-full justify-center bg-green-100">
       <textarea
           v-model="textInput"
+          :disabled="isLoading"
           @keydown.enter.exact.prevent="submitMessage"
           @keydown.enter.shift.exact="newLine"
           placeholder="...."

@@ -16,6 +16,7 @@ class Answer(BaseModel):
 
 @app.post("/submit")
 def submit_question(question: Question):
+    print("Question: ", question.question)
     result = rag_pipeline.run(
         {
             "query_embedder": {"text": question.question},

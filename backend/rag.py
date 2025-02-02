@@ -15,6 +15,7 @@ from haystack_integrations.components.retrievers.mongodb_atlas import (
 )
 
 load_dotenv()
+print("MONGO_CONNECTION_STRING", os.getenv("MONGO_CONNECTION_STRING"))
 
 document_store = MongoDBAtlasDocumentStore(
     database_name="dermatitis_db",
@@ -23,13 +24,11 @@ document_store = MongoDBAtlasDocumentStore(
 )
 
 prompt_template = """
-Given these documents, answer whether it is classified as 'dermatitis atopik' or 'non dermatitis atopik' based on the given documents. and also give explanation about the disease. answer with the same language as the language used in the question.
+Given these documents, answer whether it is classified as 'dermatitis atopic' or 'non dermatitis atopic' based on the given documents. if the question does not has any symtoms description, answer that the question is not related to dermatitis disease. Also give explanation about the symtomps mentioned that related to the dermatitis. if the question does not related to dermatitis, give explanation about what is dermatitis atopic and non atopic, and ask for more description related to the disease. answer with the same language as the language used in the question.
 \nDocuments:
 {% for doc in documents %}
     {{ doc.content }}
-
 {% endfor %}
-
 \nQuestion: {{question}}
 \nAnswer:
 """
@@ -39,7 +38,7 @@ rag_pipeline.add_component(
     instance=SentenceTransformersTextEmbedder(), name="query_embedder"
 )
 rag_pipeline.add_component(
-    instance=MongoDBAtlasEmbeddingRetriever(document_store=document_store, top_k=1),
+    instance=MongoDBAtlasEmbeddingRetriever(document_store=document_store, top_k=5),
     name="retriever",
 )
 rag_pipeline.add_component(

@@ -1,0 +1,14 @@
+services:
+  dermatitis_frontend:
+    build: ./frontend
+    container_name: dermatitis_frontend
+    restart: unless-stopped
+    ports:
+      - 3000:3000
+
+  dermatitis_backend:
+    build: ./backend
+    container_name: dermatitis_backend
+    restart: unless-stopped
+    ports:
+      - 8000:8000

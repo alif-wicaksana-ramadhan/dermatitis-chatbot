@@ -4,6 +4,9 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxtjs/tailwindcss', '@nuxt/icon'],
   runtimeConfig:{
-    backendUrl: "http://152.118.31.20:8081"
+    public:{
+      backendUrl: "http://152.118.31.20:8081"
+    },
+    backendUrl: "http://dermatitis_backend:8000"
   }
 })

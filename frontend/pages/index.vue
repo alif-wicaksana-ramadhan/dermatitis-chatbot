@@ -7,12 +7,25 @@ const submitMessage = async () => {
   const question = textInput.value;
   textInput.value = '';
   isLoading.value = true;
+
+  // const runtimeConfig = useRuntimeConfig();
+  // console.log(runtimeConfig.public.backendUrl);
+  // const res = await $fetch(`${runtimeConfig.public.backendUrl}/submit`, {
+  //   method: 'POST',
+  //   body: {
+  //     question: question
+  //   },
+  // })
+  // answer.value = res.llm.replies[0];
+  // isLoading.value = false;
+
   const data = await $fetch('/api/submit', {
     method: 'post',
     body: { question: question },
   })
   console.log(data)
   answer.value = data.data.answer;
+
   isLoading.value = false;
 }
 

@@ -5,6 +5,8 @@ services:
     restart: unless-stopped
     ports:
       - 3000:3000
+    networks:
+      - dermatitis_network
 
   dermatitis_backend:
     build: ./backend
@@ -12,3 +14,9 @@ services:
     restart: unless-stopped
     ports:
       - 8081:8000
+    networks:
+      - dermatitis_network
+
+networks:
+  dermatitis_network:
+    driver: bridge

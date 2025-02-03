@@ -24,7 +24,7 @@ document_store = MongoDBAtlasDocumentStore(
 )
 
 prompt_template = """
-Given these documents, answer whether it is classified as 'dermatitis atopic' or 'non dermatitis atopic' based on the given documents. if the question does not has any symtoms description, answer that the question is not related to dermatitis disease. Also give explanation about the symtomps mentioned that related to the dermatitis. if the question does not related to dermatitis, give explanation about what is dermatitis atopic and non atopic, and ask for more description related to the disease. answer with the same language as the language used in the question.
+Given these documents, answer whether it is classified as 'dermatitis atopic' or 'non dermatitis atopic' based on the given documents. Also give explanation about the symtomps mentioned that related to the dermatitis. if the question does not related to dermatitis, give explanation about what is dermatitis atopic and non atopic, and ask for more description related to the disease. answer with the same language as the language used in the question.
 \nDocuments:
 {% for doc in documents %}
     {{ doc.content }}

@@ -7,7 +7,10 @@ from haystack.document_stores.types import DuplicatePolicy
 from haystack.components.generators import OpenAIGenerator
 from haystack.components.preprocessors import DocumentSplitter
 from haystack.components.builders.prompt_builder import PromptBuilder
-from haystack.components.embedders import SentenceTransformersDocumentEmbedder
+from haystack.components.embedders import (
+    SentenceTransformersTextEmbedder,
+    SentenceTransformersDocumentEmbedder,
+)
 from haystack_integrations.document_stores.mongodb_atlas import (
     MongoDBAtlasDocumentStore,
 )
@@ -79,7 +82,7 @@ def create_prediction_pipe():
 
     prediction_pipe = Pipeline()
     prediction_pipe.add_component(
-        instance=SentenceTransformersDocumentEmbedder(), name="query_embedder"
+        instance=SentenceTransformersTextEmbedder(), name="query_embedder"
     )
     prediction_pipe.add_component(
         instance=MongoDBAtlasEmbeddingRetriever(document_store=document_store, top_k=5),
@@ -102,13 +105,13 @@ def create_prediction_pipe():
     return prediction_pipe
 
 
-def create_anamnesis_pipe():
+def create_anamnesis_extractor_pipe():
     prompt_template = """"
     Given this patient's description, extract information according to these parameters. Also follow the answer format\n
     Patient Description: {{prompt}}\n
     Parameters: main_complaint, patient_age, contact_history, infection_source, other_source, trigger_factors, illness_duration, past_history, family_history\n
-    Answer Format: main_complaint\n patient_age\n contact_history\n infection_source\n other_source\n trigger_factors\n illness_duration\n past_history\n family_history
-    For each parameter, give 'None' if the information is not available.
+    Answer Format: main_complaint\n patient_age\n contact_history\n infection_source\n other_source\n trigger_factors\n illness_duration\n past_history\n family_history\n
+    For each parameter, give 'Unknown' if the information is not mentioned or unsure. And give 'None' if the given information for the parameter is negative.
     """
     anamnesis_pipe = Pipeline()
     anamnesis_pipe.add_component(
@@ -125,6 +128,31 @@ def create_anamnesis_pipe():
     anamnesis_pipe.connect("prompt_builder", "llm")
 
     return anamnesis_pipe
+
+
+def create_anamnesis_followup_pipe():
+    prompt_template = """"
+    Given this patient's description, extract information according to these unprovided parameters. Also follow the answer format\n
+    Patient Description: {{prompt}}\n
+    Unprovided Parameters: {% for param in unprovided_params %}{{param}}, {% endfor %}\n
+    Answer Format: {% for param in unprovided_params %}{{param}}\n {% endfor %}
+    For each parameter, give 'Unknown' if the information is not mentioned or unsure. And give 'None' if the given information for the parameter is negative.
+    """
+    followup_pipe = Pipeline()
+    followup_pipe.add_component(
+        instance=PromptBuilder(template=prompt_template), name="prompt_builder"
+    )
+    followup_pipe.add_component(
+        instance=OpenAIGenerator(
+            model="gpt-4o-mini",
+            api_key=Secret.from_token(os.getenv("OPENAI_API_KEY")),
+        ),
+        name="llm",
+    )
+
+    followup_pipe.connect("prompt_builder", "llm")
+
+    return followup_pipe
 
 
 def create_followup_pipe():
